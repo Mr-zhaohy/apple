@@ -1,0 +1,85 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "MTRJ9QUWSM.com.mypisel.memart",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "MTRJ9QUWSM.com.mm.lzd",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "MTRJ9QUWSM.com.mypisell.beautydiary",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.boxlocal.pisel.com.au",
+                "paths": ["/app/boxlocal/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.hotpotdemo",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.freshgo",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "MH6JRVY255.com.mypisell.freshgo",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.freshco",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "A3LG3D76AW.com.mypisell.freshco",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.farmdirectdemo",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.kidsdrawinglessondemo",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.yongxing",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "9B6SV7HBK9.com.mypisell.yongxing",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "GS6ZTTLYFR.com.mypisell.vena",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "5GJ2S323Y9.com.mypisell.tudou",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "4X93D9466X.com.mypisell.boss",
+                "paths": ["/app/memart/*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.mypisell.pos",
+                "paths": ["*"]
+            },
+            {
+                "appID": "2JTH97A7Y2.com.pisell.boss",
+                "paths": ["*"]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "2JTH97A7Y2.com.mypisell.pos",
+            "2JTH97A7Y2.com.pisell.boss"
+        ]
+    }
+}
